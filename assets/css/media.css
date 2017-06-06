@@ -1,0 +1,11 @@
+@media (min-width: 535px) and (max-width: 824px){
+	.container {
+		background-image: url(../img/Copia_de_dawn.png);
+	}
+}
+
+@media (min-width: 200px) and (max-width: 534px){
+	.container {
+		background-image: url(../img/maxresdefault.jpg);
+	}
+}
